@@ -21,7 +21,7 @@ $ git clone https://github.com/JoseMMenchaca/django.git
 ```
 Desde la consola de comando ingresa hasta el directorio del proyecto descargado ejecutando el siguiente comando.
 ```
-$ cd /api-usuarios
+$ cd /django
 
 ```
 
